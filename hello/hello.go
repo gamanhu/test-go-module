@@ -2,7 +2,7 @@ package main
 
 import  (
 	"fmt"
-	"example/greetings"
+	"github.com/gamanhu/test-go-module/greetings"
 )
 
 func main() {
